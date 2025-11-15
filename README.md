@@ -7,7 +7,6 @@ This project identifies human emotions from facial images using a Convolutional 
 - Preprocessing pipeline for grayscale conversion, resizing, and normalization
 - High-accuracy emotion classification across multiple categories
 - Notebook-friendly, reproducible workflow
-- Real-time prediction script (optional)
 
 ##  Dataset
 - Source: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
